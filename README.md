@@ -3,6 +3,7 @@
 ## Descrição
 
 Uma breve descrição do projeto, explicando seu propósito e o que ele faz.
+Objetivos
 
 ## Funcionalidades
 
