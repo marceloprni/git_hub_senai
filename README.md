@@ -3,13 +3,14 @@
 ## Descrição
 
 Uma breve descrição do projeto, explicando seu propósito e o que ele faz.
-Objetivos
+Descrever as expectativas
 
 ## Funcionalidades
 
-- Funcionalidade 1
+- Funcionalidade 1s
 - Funcionalidade 2
 - Funcionalidade 3
+
 ## Pré-requisitos
 
 Para rodar este projeto, você precisará de:
